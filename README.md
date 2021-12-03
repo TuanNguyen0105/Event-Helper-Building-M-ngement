@@ -1,1 +1,1 @@
-# Event-Helper-Building-M-ngement
+# Event-Helper-Building-Management
